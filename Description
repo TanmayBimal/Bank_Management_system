@@ -1,0 +1,20 @@
+Developed a comprehensive Bank Management System using C++ that facilitates basic banking operations such as creating accounts, depositing and withdrawing funds, and viewing account information. The system simulates a simple banking environment with user-friendly console-based navigation, file handling for data persistence, and validation mechanisms to ensure robust functionality.
+
+Key Features:
+
+Account Creation: Automatically generates a unique account number and captures essential user details such as name, contact information, and initial deposit amount. Data is securely stored in text files for persistent storage.
+Deposit and Withdrawal: Allows users to deposit or withdraw amounts from their account. The system updates and persists the balance in real-time, reflecting the updated amounts.
+Account Information Retrieval: Provides detailed account information, including account number, name, contact details, and current balance.
+Secure File Handling: Implements file handling to read, write, and update user information while ensuring data integrity using temporary files during updates.
+Menu-Driven Interface: Offers a clear and intuitive menu-driven interface for seamless navigation and user interaction.
+Technical Highlights:
+
+Programming Language: C++
+Key Concepts: File handling, object-oriented programming, random number generation for unique account IDs, and system-level commands for console operations.
+Challenges Overcome: Ensured data consistency during deposit/withdrawal operations by using intermediate files to safely update records.
+Impact:
+
+Enhanced understanding of file-based data management.
+Strengthened problem-solving skills in building scalable and secure system components.
+Demonstrated the ability to design user-focused, functional software solutions.
+This project showcases my ability to design and implement functional systems, effectively apply C++ programming concepts, and handle real-world challenges in software development.
